@@ -1,0 +1,1 @@
+E:\mvc projects\login demo\obj\Debug\login demo.csprojResolveAssemblyReference.cache
